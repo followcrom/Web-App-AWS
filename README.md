@@ -2,13 +2,11 @@
 
 A web application that randomly selects an entry from a database, shows it to the user, and allows the user to save contributions of their own, all from a single U.I.
 
-[See the app on AWS](http://randomwisdom.eu-west-2.elasticbeanstalk.com/) (This version runs on an AWS EC2 server, but can run on any server.)
-
-<img src="https://followcrom.online/embeds/domdom.png" alt="drawing" width="200"/>
-
-![Screenshot](https://followcrom.online/embeds/domdom.png)
+[See the app on AWS](http://randomwisdom.eu-west-2.elasticbeanstalk.com/) (This version runs on an AWS EC2 server, but can run on any server)
 
 App runs in **Flask** framework with only 3 dependencies - see `requirements.txt`.
+
+![Screenshot](https://followcrom.online/embeds/domdom.png)
 
 In the repo you will find:
 
